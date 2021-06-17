@@ -10,6 +10,6 @@ To see the app in action, <a href="https://yelp-camp-101.herokuapp.com/">click h
 3. Create a .env file in the root of the project and add the following: 
    CLOUDINARY_CLOUD_NAME, CLOUDINARY_KEY, CLOUDINARY_SECRET, MAPBOX_TOKEN, DB_URL, SECRET
 4. npm install
-5. node app.js
+5. npm start
 
 Go to localhost:3000
